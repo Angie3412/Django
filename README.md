@@ -28,10 +28,11 @@
 2. Navegar al Directorio del Proyecto
    `cd motos-api`
 3. Crear y Activar un Entorno Virtual
-   `python -m venv env
-env\Scripts\activate`
+   `python -m venv env`
 
-4. Instalar Dependencias
+`env\Scripts\activate`
+
+5. Instalar Dependencias
    `pip install -r requirements.txt`
    
  5.Realizar Migraciones de la Base de Datos
